@@ -1,6 +1,6 @@
 # Tetrino by Joff
 
-![](https://github.com/j0ff/tetrino/tetrino.gif)
+![](https://raw.githubusercontent.com/j0ff/tetrino/master/tetrino.gif)
 
 ## Description
 A port of the EXCELLENT [Simple Tetris Clone](https://code.google.com/p/simple-tetris-clone/) to the Gamebuino platform.
